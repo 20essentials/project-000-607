@@ -1,0 +1,2 @@
+- **Reference / Inspiration ⬇️**
+  - [Gradient Loader](https://youtu.be/84zfkJwWEjg?si=1ONbXPSFsgiIouBK)
